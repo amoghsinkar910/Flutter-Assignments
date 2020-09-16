@@ -97,7 +97,7 @@ class _OopsConceptState extends State<QA> {
             child: FlatButton(
               color: Colors.red,
               child: Text("False",
-                textAlign: TextAlign.center,style: TextStyle(fontSize: 20.0,color: Colors.white),
+                textAlign: TextAlign.center,style: TextStyle(fontSize: 25.0,color: Colors.white),
               ),
               shape: new RoundedRectangleBorder(borderRadius: new BorderRadius.circular(40.0)),
               onPressed: (){
